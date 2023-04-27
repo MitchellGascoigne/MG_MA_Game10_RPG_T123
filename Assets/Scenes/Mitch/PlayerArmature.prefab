@@ -652,7 +652,6 @@ GameObject:
   - component: {fileID: 2863386764757215898}
   - component: {fileID: 5430395914144661601}
   - component: {fileID: 1950784572912203501}
-  - component: {fileID: 947144996583071947}
   - component: {fileID: 2863386764757215901}
   m_Layer: 8
   m_Name: PlayerArmature
@@ -797,20 +796,6 @@ MonoBehaviour:
   analogMovement: 0
   cursorLocked: 1
   cursorInputForLook: 1
---- !u!114 &947144996583071947
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2863386764757215889}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ca27d3ca95c3cb9478af30facabac2cd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  treasureCollected: 0
-  treasureText: {fileID: 0}
 --- !u!114 &2863386764757215901
 MonoBehaviour:
   m_ObjectHideFlags: 0
