@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu Scene.unity
     guid: ece282b450c406c458e2af06e56b54b9
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Mitch Terrain Construction Scene 1.unity
+    guid: ec9d64b84f0ab294ca6e830020b2a243
+  - enabled: 1
+    path: Assets/Scenes/Win Scene.unity
+    guid: 74e442351c3506247bd484f96b25ce36
   m_configObjects: {}

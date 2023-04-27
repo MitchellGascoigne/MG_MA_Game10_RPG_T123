@@ -10,7 +10,7 @@ public class VictoryTrigger : MonoBehaviour
         Debug.Log("Victory triggered");
         if (other.gameObject.tag == "Player")
         {
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene(2);
             Debug.Log("Victory trigger full functionality");
         } 
     }

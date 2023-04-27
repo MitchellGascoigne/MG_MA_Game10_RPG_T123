@@ -692,14 +692,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Being a wizard doesn''t pay like it used to...
+  m_text: 'Being an adventurer doesn''t pay like it used to...
 
-    Rent is due and your
-    Landlord''s raised the price again!
+    Rent is due and
+    your Landlord''s raised the price again!
 
 
-    Go out into the world, loot 2 treasures
-    and return home to pay off your rent. Or suffer the fate of eviction!'
+    Go out into the world, loot 4
+    treasures and return home to pay off your rent. Or suffer the fate of eviction!'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -726,7 +726,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 32.15
+  m_fontSize: 32.2
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1265,6 +1265,12 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'WASD: Move
 
+    Spacebar: Jump
+
+
+    Collect the treasure chests hidden
+    around the world and then return back to your home to beat the game.
+
 '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1292,7 +1298,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 72
+  m_fontSize: 42.4
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1427,7 +1433,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 26.85
+  m_fontSize: 27.1
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -2125,7 +2131,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 26.85
+  m_fontSize: 27.1
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
