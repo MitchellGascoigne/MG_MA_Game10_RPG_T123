@@ -653,6 +653,7 @@ GameObject:
   - component: {fileID: 5430395914144661601}
   - component: {fileID: 1950784572912203501}
   - component: {fileID: 2863386764757215901}
+  - component: {fileID: 7214097775804602533}
   m_Layer: 8
   m_Name: PlayerArmature
   m_TagString: Player
@@ -895,6 +896,20 @@ MonoBehaviour:
   m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
+--- !u!114 &7214097775804602533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2863386764757215889}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca27d3ca95c3cb9478af30facabac2cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  treasureCollected: 0
+  treasureText: {fileID: 0}
 --- !u!1 &3020590494645543890
 GameObject:
   m_ObjectHideFlags: 0
